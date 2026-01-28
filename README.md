@@ -28,16 +28,6 @@ Cada experimento segue, de forma geral, o seguinte fluxo:
 - CWE associada
 - Severidade (BAIXA, MÉDIA, ALTA, CRÍTICA)
 
-# Objetivo
-Avaliar a geração de código Flask com autenticação a partir de um prompt simples,
-sem requisitos explícitos de segurança.
-
-## Variável controlada
-- Prompt fixo
-
-## Variável independente
-- Modelo de linguagem (LLM)
-
 ## Modelos avaliados
 
 - Claude Haiku 4.5
@@ -113,7 +103,4 @@ A execução do SonarQube não ocorre via comando dentro deste repositório, sen
 │   └── resultado_sonarqube.xlsx
 │
 └── README.md
-=======
-## Observação
-Os códigos gerados são analisados individualmente em cada subdiretório.
 
