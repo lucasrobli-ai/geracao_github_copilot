@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Avaliando códigos gerados pelo GitHub Copilot
 
 ## Visão Geral
@@ -29,10 +28,6 @@ Cada experimento segue, de forma geral, o seguinte fluxo:
 - CWE associada
 - Severidade (BAIXA, MÉDIA, ALTA, CRÍTICA)
 
-### Modelos avaliados
-
-- Claude Haiku 4.5
-=======
 # Objetivo
 Avaliar a geração de código Flask com autenticação a partir de um prompt simples,
 sem requisitos explícitos de segurança.
@@ -44,12 +39,12 @@ sem requisitos explícitos de segurança.
 - Modelo de linguagem (LLM)
 
 ## Modelos avaliados
->>>>>>> d7fa2e6cccdc6d814b51e115aa25b18dc624f898
+
+- Claude Haiku 4.5
 - GPT-4.0
 - GPT-4.1
 - GPT-5.1 Mini
 
-<<<<<<< HEAD
 ## Ferramentas Utilizadas
 
 ### Semgrep
@@ -121,4 +116,4 @@ A execução do SonarQube não ocorre via comando dentro deste repositório, sen
 =======
 ## Observação
 Os códigos gerados são analisados individualmente em cada subdiretório.
->>>>>>> d7fa2e6cccdc6d814b51e115aa25b18dc624f898
+
